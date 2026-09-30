@@ -1,6 +1,6 @@
 # Lärspel – Calle Blomstrand
 
-Presentationssida med sex lärspel för åk 1–6, byggda från grunden i ren HTML, CSS och JavaScript (inga ramverk, inga ljudfiler).
+Presentationssida med åtta lärspel för åk 1–6, byggda från grunden i ren HTML, CSS och JavaScript (inga ramverk, inga ljudfiler).
 
 Live: https://larspel.blomstrande.net
 
@@ -12,5 +12,7 @@ Live: https://larspel.blomstrande.net
 | Planetparaden | NO (solsystemet) |
 | Rytmlabbet | Musik |
 | Word Memory | Engelska |
+| Tidsresan | Historia |
+| Alfabetståget | Svenska (alfabetet) |
 
 Alla spel är inbäddade i `index.html` och öppnas direkt på sidan. Illustrationerna är AI-genererade.
